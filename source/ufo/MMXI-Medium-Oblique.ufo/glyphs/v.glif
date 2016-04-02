@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="v" format="1">
+  <advance width="852.0"/>
+  <unicode hex="0076"/>
+  <outline>
+    <contour>
+      <point x="513.65791915" y="0" type="line"/>
+      <point x="513.65791915" y="1024" type="line"/>
+      <point x="249.65791915" y="1024" type="line"/>
+      <point x="249.65791915" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="397.65791915" y="0" type="line"/>
+      <point x="597.65791915" y="0" type="line"/>
+      <point x="1037.65791915" y="1024" type="line"/>
+      <point x="773.65791915" y="1024" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>v</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>852.0</real>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4000000059604645</real>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

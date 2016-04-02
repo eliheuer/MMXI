@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="1">
+  <advance width="1280"/>
+  <unicode hex="0041"/>
+  <outline>
+    <contour>
+      <point x="544" y="1472" type="line"/>
+      <point x="544" y="1472"/>
+      <point x="816" y="0"/>
+      <point x="816" y="0" type="curve"/>
+      <point x="1248" y="0" type="line"/>
+      <point x="1248" y="0"/>
+      <point x="928" y="1472"/>
+      <point x="928" y="1472" type="curve"/>
+    </contour>
+    <contour>
+      <point x="704" y="1472" type="curve"/>
+      <point x="352" y="1472" type="line"/>
+      <point x="352" y="1472"/>
+      <point x="32" y="0"/>
+      <point x="32" y="0" type="curve"/>
+      <point x="432" y="0" type="line"/>
+      <point x="432" y="0"/>
+      <point x="704" y="1472"/>
+    </contour>
+    <contour>
+      <point x="896.0" y="512.0" type="line"/>
+      <point x="320.0" y="512.0" type="line"/>
+      <point x="320.0" y="192.0" type="line"/>
+      <point x="896.0" y="192.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+            <key>com.typemytype.robofont.image</key>
+            <dict>
+              <key>blackAndWhite</key>
+              <false/>
+              <key>brightness</key>
+              <integer>0</integer>
+              <key>contrast</key>
+              <integer>1</integer>
+              <key>path</key>
+              <string>/Users/allynsalomon/Desktop/WESELL-SAND.jpg</string>
+              <key>saturation</key>
+              <integer>1</integer>
+              <key>sharpness</key>
+              <real>0.4</real>
+              <key>transform</key>
+              <array>
+                <real>20.593802448270605</real>
+                <real>0.0</real>
+                <real>0.0</real>
+                <real>20.593802448270605</real>
+                <real>-10074.75338749809</real>
+                <real>-702.4095542410489</real>
+              </array>
+            </dict>
+          </dict>
+          <key>name</key>
+          <string>A</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1280</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4000000059604645</real>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

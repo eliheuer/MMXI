@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="o" format="1">
+  <advance width="977.585520212"/>
+  <unicode hex="006F"/>
+  <outline>
+    <contour>
+      <point x="513.621719681" y="-32" type="curve"/>
+      <point x="769.621719681" y="-32"/>
+      <point x="941.621719681" y="128"/>
+      <point x="993.621719681" y="384" type="curve" smooth="yes"/>
+      <point x="1049.62171968" y="640" type="line" smooth="yes"/>
+      <point x="1101.62171968" y="896"/>
+      <point x="937.621719681" y="1056"/>
+      <point x="681.621719681" y="1056" type="curve"/>
+      <point x="425.621719681" y="1056"/>
+      <point x="253.621719681" y="896"/>
+      <point x="201.621719681" y="640" type="curve" smooth="yes"/>
+      <point x="145.621719681" y="384" type="line" smooth="yes"/>
+      <point x="93.6217196813" y="128"/>
+      <point x="257.621719681" y="-32"/>
+    </contour>
+    <contour>
+      <point x="529.621719681" y="192.0" type="curve"/>
+      <point x="441.621719681" y="192.0"/>
+      <point x="385.621719681" y="264.0"/>
+      <point x="401.621719681" y="352.0" type="curve" smooth="yes"/>
+      <point x="473.621719681" y="672.0" type="line" smooth="yes"/>
+      <point x="489.621719681" y="760.0"/>
+      <point x="577.621719681" y="832.0"/>
+      <point x="665.621719681" y="832.0" type="curve"/>
+      <point x="753.621719681" y="832.0"/>
+      <point x="809.621719681" y="760.0"/>
+      <point x="793.621719681" y="672.0" type="curve" smooth="yes"/>
+      <point x="721.621719681" y="352.0" type="line" smooth="yes"/>
+      <point x="705.621719681" y="264.0"/>
+      <point x="617.621719681" y="192.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+            <key>com.typemytype.robofont.image</key>
+            <dict>
+              <key>blackAndWhite</key>
+              <false/>
+              <key>brightness</key>
+              <integer>0</integer>
+              <key>contrast</key>
+              <integer>1</integer>
+              <key>path</key>
+              <string>/Users/allynsalomon/Desktop/Screen Shot 2013-06-18 at 2.34.07 PM.png</string>
+              <key>saturation</key>
+              <integer>1</integer>
+              <key>sharpness</key>
+              <real>0.4</real>
+              <key>transform</key>
+              <array>
+                <real>17.78970085154571</real>
+                <real>0.0</real>
+                <real>0.0</real>
+                <real>17.78970085154571</real>
+                <real>-9898.401126938788</real>
+                <real>-927.2790596082009</real>
+              </array>
+            </dict>
+          </dict>
+          <key>name</key>
+          <string>o</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>977.585520212</real>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4000000059604645</real>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

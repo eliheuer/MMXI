@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three" format="1">
+  <advance width="1056.20444172"/>
+  <unicode hex="0033"/>
+  <outline>
+    <contour>
+      <point x="783.419004721" y="448" type="curve"/>
+      <point x="751.419004721" y="304"/>
+      <point x="623.419004721" y="224"/>
+      <point x="511.419004721" y="224" type="curve"/>
+      <point x="351.419004721" y="224"/>
+      <point x="223.419004721" y="304"/>
+      <point x="167.419004721" y="336" type="curve"/>
+      <point x="111.419004721" y="64" type="line"/>
+      <point x="167.419004721" y="32"/>
+      <point x="263.419004721" y="-32"/>
+      <point x="455.419004721" y="-32" type="curve"/>
+      <point x="727.419004721" y="-32"/>
+      <point x="999.419004721" y="176"/>
+      <point x="1055.41900472" y="448" type="curve"/>
+      <point x="1111.41900472" y="720"/>
+      <point x="935.419004721" y="928"/>
+      <point x="663.419004721" y="928" type="curve"/>
+      <point x="471.419004721" y="928"/>
+      <point x="599.419004721" y="928"/>
+      <point x="535.419004721" y="928" type="curve"/>
+      <point x="335.419004721" y="768" type="line"/>
+      <point x="319.419004721" y="672" type="line"/>
+      <point x="383.419004721" y="672"/>
+      <point x="447.419004721" y="672"/>
+      <point x="607.419004721" y="672" type="curve"/>
+      <point x="719.419004721" y="672"/>
+      <point x="815.419004721" y="592"/>
+    </contour>
+    <contour>
+      <point x="887.419004721" y="1232" type="line"/>
+      <point x="343.419004721" y="784" type="line"/>
+      <point x="335.419004721" y="752" type="line"/>
+      <point x="623.419004721" y="752" type="line"/>
+      <point x="623.419004721" y="752"/>
+      <point x="1207.41900472" y="1232"/>
+      <point x="1207.41900472" y="1232" type="curve"/>
+      <point x="1207.41900472" y="1232"/>
+      <point x="1255.41900472" y="1472"/>
+      <point x="1255.41900472" y="1472" type="curve"/>
+      <point x="423.419004721" y="1472" type="line"/>
+      <point x="375.419004721" y="1232" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>three</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1056.20444172</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

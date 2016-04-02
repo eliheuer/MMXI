@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven" format="1">
+  <advance width="1167.11674122"/>
+  <unicode hex="0037"/>
+  <outline>
+    <contour>
+      <point x="1416.0" y="1472" type="curve"/>
+      <point x="440.0" y="1472" type="line"/>
+      <point x="440.0" y="1472"/>
+      <point x="388.0" y="1232"/>
+      <point x="388.0" y="1232" type="curve"/>
+      <point x="1204.0" y="1232" type="line"/>
+      <point x="1204.0" y="1232"/>
+      <point x="1416.0" y="1472"/>
+    </contour>
+    <contour>
+      <point x="1112.0" y="1472" type="curve"/>
+      <point x="64.0" y="0" type="line"/>
+      <point x="368.0" y="0" type="line"/>
+      <point x="368.0" y="0"/>
+      <point x="1392.0" y="1440"/>
+      <point x="1392.0" y="1440" type="curve"/>
+      <point x="1368.0" y="1472" type="line"/>
+      <point x="1368.0" y="1472"/>
+      <point x="1112.0" y="1472"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>seven</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1167.11674122</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

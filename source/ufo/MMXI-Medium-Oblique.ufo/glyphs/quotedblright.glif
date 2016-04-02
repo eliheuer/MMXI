@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblright" format="1">
+  <advance width="865.216289761"/>
+  <unicode hex="201D"/>
+  <outline>
+    <contour>
+      <point x="860.883258778" y="1184" type="line"/>
+      <point x="816.883258778" y="976" type="line"/>
+      <point x="816.883258778" y="976"/>
+      <point x="896.883258778" y="976"/>
+      <point x="896.883258778" y="976" type="curve"/>
+      <point x="1020.88325878" y="1184" type="line"/>
+      <point x="1080.88325878" y="1472" type="line"/>
+      <point x="1080.88325878" y="1472"/>
+      <point x="808.883258778" y="1472"/>
+      <point x="808.883258778" y="1472" type="curve"/>
+      <point x="748.883258778" y="1184" type="line"/>
+    </contour>
+    <contour>
+      <point x="460.883258778" y="1184" type="line"/>
+      <point x="416.883258778" y="976" type="line"/>
+      <point x="416.883258778" y="976"/>
+      <point x="496.883258778" y="976"/>
+      <point x="496.883258778" y="976" type="curve"/>
+      <point x="620.883258778" y="1184" type="line"/>
+      <point x="680.883258778" y="1472" type="line"/>
+      <point x="680.883258778" y="1472"/>
+      <point x="408.883258778" y="1472"/>
+      <point x="408.883258778" y="1472" type="curve"/>
+      <point x="348.883258778" y="1184" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>quotedblright</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>865.216289761</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

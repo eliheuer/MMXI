@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="z" format="1">
+  <advance width="834.432579522"/>
+  <unicode hex="007A"/>
+  <outline>
+    <contour>
+      <point x="770.045249336" y="0" type="line"/>
+      <point x="818.045249336" y="224" type="line"/>
+      <point x="442.045249336" y="224" type="line"/>
+      <point x="958.045249336" y="896" type="line"/>
+      <point x="986.045249336" y="1024" type="line"/>
+      <point x="282.045249336" y="1024" type="line"/>
+      <point x="234.045249336" y="800" type="line"/>
+      <point x="642.045249336" y="800" type="line"/>
+      <point x="94.045249336" y="128" type="line"/>
+      <point x="66.045249336" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>z</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>834.432579522</real>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4000000059604645</real>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

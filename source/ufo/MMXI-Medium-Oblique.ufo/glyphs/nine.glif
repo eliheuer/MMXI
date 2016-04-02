@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine" format="1">
+  <advance width="1120.02206568"/>
+  <unicode hex="0039"/>
+  <outline>
+    <contour>
+      <point x="576.459729124" y="0.0" type="curve"/>
+      <point x="1100.45972912" y="736.0" type="line"/>
+      <point x="1168.45972912" y="832.0"/>
+      <point x="1232.45972912" y="976.0"/>
+      <point x="1248.45972912" y="1056.0" type="curve"/>
+      <point x="1304.45972912" y="1312.0"/>
+      <point x="1136.45972912" y="1504.0"/>
+      <point x="880.459729124" y="1504.0" type="curve"/>
+      <point x="624.459729124" y="1504.0"/>
+      <point x="376.459729124" y="1312.0"/>
+      <point x="320.459729124" y="1056.0" type="curve"/>
+      <point x="308.459729124" y="992.0" type="line"/>
+      <point x="252.459729124" y="736.0"/>
+      <point x="436.459729124" y="544.0"/>
+      <point x="736.459729124" y="608.0" type="curve"/>
+      <point x="736.459729124" y="608.0"/>
+      <point x="304.459729124" y="0.0"/>
+      <point x="304.459729124" y="0.0" type="curve"/>
+      <point x="304.459729124" y="0.0"/>
+      <point x="576.459729124" y="0.0"/>
+    </contour>
+    <contour>
+      <point x="828.459729124" y="1264.0" type="curve"/>
+      <point x="940.459729124" y="1264.0"/>
+      <point x="1016.45972912" y="1168.0"/>
+      <point x="992.459729124" y="1056.0" type="curve" smooth="yes"/>
+      <point x="980.459729124" y="992.0" type="line" smooth="yes"/>
+      <point x="956.459729124" y="880.0"/>
+      <point x="840.459729124" y="784.0"/>
+      <point x="728.459729124" y="784.0" type="curve"/>
+      <point x="616.459729124" y="784.0"/>
+      <point x="540.459729124" y="880.0"/>
+      <point x="564.459729124" y="992.0" type="curve" smooth="yes"/>
+      <point x="576.459729124" y="1056.0" type="line" smooth="yes"/>
+      <point x="600.459729124" y="1168.0"/>
+      <point x="716.459729124" y="1264.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>nine</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1120.02206568</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

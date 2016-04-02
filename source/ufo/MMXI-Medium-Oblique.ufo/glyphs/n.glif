@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n" format="1">
+  <advance width="1025.65791915"/>
+  <unicode hex="006E"/>
+  <outline>
+    <contour>
+      <point x="945.65791915" y="0" type="line"/>
+      <point x="1093.65791915" y="704" type="line"/>
+      <point x="1137.65791915" y="896"/>
+      <point x="1001.65791915" y="1056"/>
+      <point x="809.65791915" y="1056" type="curve"/>
+      <point x="617.65791915" y="1056"/>
+      <point x="457.65791915" y="896"/>
+      <point x="413.65791915" y="704" type="curve"/>
+      <point x="505.65791915" y="672" type="line"/>
+      <point x="521.65791915" y="760"/>
+      <point x="609.65791915" y="832"/>
+      <point x="697.65791915" y="832" type="curve"/>
+      <point x="785.65791915" y="832"/>
+      <point x="841.65791915" y="760"/>
+      <point x="825.65791915" y="672" type="curve"/>
+      <point x="681.65791915" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="361.65791915" y="0" type="line"/>
+      <point x="553.65791915" y="896" type="line"/>
+      <point x="521.65791915" y="896" type="line"/>
+      <point x="481.65791915" y="1024" type="line"/>
+      <point x="313.65791915" y="1024" type="line"/>
+      <point x="97.6579191501" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>n</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1025.65791915</real>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4000000059604645</real>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

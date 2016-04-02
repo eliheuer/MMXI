@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="w" format="1">
+  <advance width="1284.0"/>
+  <unicode hex="0077"/>
+  <outline>
+    <contour>
+      <point x="797.65791915" y="0" type="curve"/>
+      <point x="1029.65791915" y="0.0" type="line"/>
+      <point x="1041.65791915" y="32.0"/>
+      <point x="1469.65791915" y="1024.0"/>
+      <point x="1469.65791915" y="1024.0" type="curve"/>
+      <point x="1213.65791915" y="1024" type="line"/>
+      <point x="1213.65791915" y="1024"/>
+      <point x="797.65791915" y="0"/>
+    </contour>
+    <contour>
+      <point x="373.65791915" y="0.0" type="curve"/>
+      <point x="541.65791915" y="0.0" type="line"/>
+      <point x="981.65791915" y="1024.0" type="line"/>
+      <point x="765.65791915" y="1024.0" type="line"/>
+      <point x="765.65791915" y="1024.0"/>
+      <point x="373.65791915" y="0.0"/>
+    </contour>
+    <contour>
+      <point x="933.65791915" y="0.0" type="line"/>
+      <point x="981.65791915" y="1024.0" type="line"/>
+      <point x="765.65791915" y="1024.0" type="line"/>
+      <point x="765.65791915" y="1024.0"/>
+      <point x="765.65791915" y="0.0"/>
+      <point x="765.65791915" y="0.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="509.65791915" y="0.0" type="line"/>
+      <point x="509.65791915" y="0.0"/>
+      <point x="509.65791915" y="1024.0"/>
+      <point x="509.65791915" y="1024.0" type="curve"/>
+      <point x="249.65791915" y="1024.0" type="line"/>
+      <point x="249.65791915" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>w</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1284.0</real>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4000000059604645</real>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

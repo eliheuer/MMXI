@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="1">
+  <advance width="948.0"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="684.61402781" y="1004" type="line"/>
+      <point x="732.61402781" y="760" type="line"/>
+      <point x="776.61402781" y="752" type="line"/>
+      <point x="952.61402781" y="864" type="line"/>
+      <point x="964.61402781" y="912" type="line"/>
+      <point x="804.61402781" y="1076" type="line"/>
+      <point x="760.61402781" y="1088" type="line"/>
+      <point x="696.61402781" y="1052" type="line"/>
+    </contour>
+    <contour>
+      <point x="796.61402781" y="1072" type="line"/>
+      <point x="1064.61402781" y="1092" type="line"/>
+      <point x="1092.61402781" y="1132" type="line"/>
+      <point x="1068.61402781" y="1308" type="line"/>
+      <point x="1028.61402781" y="1328" type="line"/>
+      <point x="784.61402781" y="1192" type="line"/>
+      <point x="748.61402781" y="1152" type="line"/>
+      <point x="756.61402781" y="1088" type="line"/>
+    </contour>
+    <contour>
+      <point x="604.61402781" y="1080" type="line"/>
+      <point x="364.61402781" y="908" type="line"/>
+      <point x="364.61402781" y="864" type="line"/>
+      <point x="492.61402781" y="756" type="line"/>
+      <point x="544.61402781" y="764" type="line"/>
+      <point x="688.61402781" y="1004" type="line"/>
+      <point x="696.61402781" y="1052" type="line"/>
+      <point x="652.61402781" y="1092" type="line"/>
+    </contour>
+    <contour>
+      <point x="668.61402781" y="1192" type="line"/>
+      <point x="476.61402781" y="1332" type="line"/>
+      <point x="432.61402781" y="1312" type="line"/>
+      <point x="336.61402781" y="1132" type="line"/>
+      <point x="348.61402781" y="1088" type="line"/>
+      <point x="604.61402781" y="1072" type="line"/>
+      <point x="652.61402781" y="1092" type="line"/>
+      <point x="684.61402781" y="1152" type="line"/>
+    </contour>
+    <contour>
+      <point x="788.61402781" y="1184" type="line"/>
+      <point x="920.61402781" y="1472" type="line"/>
+      <point x="648.61402781" y="1472" type="line"/>
+      <point x="660.61402781" y="1184" type="line"/>
+      <point x="684.61402781" y="1152" type="line"/>
+      <point x="748.61402781" y="1152" type="line"/>
+    </contour>
+    <contour>
+      <point x="656.61402781" y="1168" type="line"/>
+      <point x="628.61402781" y="1040" type="line"/>
+      <point x="756.61402781" y="1040" type="line"/>
+      <point x="784.61402781" y="1168" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>asterisk</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>948.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

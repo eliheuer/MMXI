@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L" format="1">
+  <advance width="841.869683977"/>
+  <unicode hex="004C"/>
+  <outline>
+    <contour>
+      <point x="96.8832587783" y="0" type="line"/>
+      <point x="96.8832587783" y="0"/>
+      <point x="808.883258778" y="0.0"/>
+      <point x="808.883258778" y="0.0" type="curve"/>
+      <point x="860.883258778" y="240.0" type="line"/>
+      <point x="428.883258778" y="240.0" type="line"/>
+      <point x="688.883258778" y="1472.0" type="line"/>
+      <point x="408.883258778" y="1472" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>L</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>841.869683977</real>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4000000059604645</real>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="1">
+  <advance width="1048.0"/>
+  <unicode hex="0041"/>
+  <outline>
+    <contour>
+      <point x="896" y="1472" type="curve"/>
+      <point x="664" y="1472" type="line"/>
+      <point x="664" y="1472"/>
+      <point x="32" y="0"/>
+      <point x="32" y="0" type="curve"/>
+      <point x="296" y="0" type="line"/>
+      <point x="296" y="0"/>
+      <point x="896" y="1472"/>
+    </contour>
+    <contour>
+      <point x="352.0" y="448.0" type="line"/>
+      <point x="300.0" y="208.0" type="line"/>
+      <point x="812.0" y="208.0" type="line"/>
+      <point x="864.0" y="448.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="752" y="1472" type="line"/>
+      <point x="752" y="1472"/>
+      <point x="752" y="0"/>
+      <point x="752" y="0" type="curve"/>
+      <point x="1016.0" y="0.0" type="line"/>
+      <point x="1016.0" y="0.0"/>
+      <point x="1016.0" y="1472.0"/>
+      <point x="1016.0" y="1472.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>A</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1048.0</real>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4000000059604645</real>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

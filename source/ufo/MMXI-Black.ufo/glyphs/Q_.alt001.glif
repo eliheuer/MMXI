@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q.alt001" format="1">
+  <advance width="1152.0"/>
+  <outline>
+    <contour>
+      <point x="768" y="-320" type="curve"/>
+      <point x="768" y="192" type="line"/>
+      <point x="384" y="192" type="line"/>
+      <point x="384" y="-384" type="line"/>
+      <point x="384" y="-384"/>
+      <point x="768" y="-320"/>
+    </contour>
+    <contour>
+      <point x="1088.0" y="544.0" type="curve"/>
+      <point x="1088.0" y="928.0" type="line"/>
+      <point x="1088.0" y="1312.0"/>
+      <point x="896.0" y="1504.0"/>
+      <point x="576.0" y="1504.0" type="curve"/>
+      <point x="256.0" y="1504.0"/>
+      <point x="64.0" y="1312.0"/>
+      <point x="64.0" y="928.0" type="curve"/>
+      <point x="64.0" y="544.0" type="line"/>
+      <point x="64.0" y="160.0"/>
+      <point x="256.0" y="-32.0"/>
+      <point x="576.0" y="-32.0" type="curve"/>
+      <point x="900" y="-32"/>
+      <point x="1088" y="160"/>
+    </contour>
+    <contour>
+      <point x="672.0" y="1072.0" type="curve"/>
+      <point x="672.0" y="400.0" type="line"/>
+      <point x="672.0" y="344.0"/>
+      <point x="632.0" y="304.0"/>
+      <point x="576.0" y="304.0" type="curve"/>
+      <point x="520.0" y="304.0"/>
+      <point x="480.0" y="344.0"/>
+      <point x="480.0" y="400.0" type="curve"/>
+      <point x="480.0" y="1072.0" type="line"/>
+      <point x="480.0" y="1128.0"/>
+      <point x="520.0" y="1168.0"/>
+      <point x="576.0" y="1168.0" type="curve"/>
+      <point x="632.0" y="1168.0"/>
+      <point x="672.0" y="1128.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Q.alt001</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1152.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

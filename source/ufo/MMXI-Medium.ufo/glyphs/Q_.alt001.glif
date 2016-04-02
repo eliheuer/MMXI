@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q.alt001" format="1">
+  <advance width="1088.0"/>
+  <outline>
+    <contour>
+      <point x="576" y="-256" type="line"/>
+      <point x="832" y="-192" type="line"/>
+      <point x="832" y="192" type="line"/>
+      <point x="576" y="128" type="line"/>
+    </contour>
+    <contour>
+      <point x="768.0" y="1024.0" type="curve"/>
+      <point x="768.0" y="448.0" type="line"/>
+      <point x="768.0" y="320.0"/>
+      <point x="688.0" y="208.0"/>
+      <point x="544.0" y="208.0" type="curve"/>
+      <point x="400.0" y="208.0"/>
+      <point x="320.0" y="320.0"/>
+      <point x="320.0" y="448.0" type="curve"/>
+      <point x="320.0" y="1024.0" type="line"/>
+      <point x="320.0" y="1152.0"/>
+      <point x="400.0" y="1264.0"/>
+      <point x="544.0" y="1264.0" type="curve"/>
+      <point x="688.0" y="1264.0"/>
+      <point x="768.0" y="1152.0"/>
+    </contour>
+    <contour>
+      <point x="1040.0" y="480.0" type="curve"/>
+      <point x="1040.0" y="992.0" type="line"/>
+      <point x="1040.0" y="1280.0"/>
+      <point x="832.0" y="1504.0"/>
+      <point x="544.0" y="1504.0" type="curve"/>
+      <point x="256.0" y="1504.0"/>
+      <point x="48.0" y="1280.0"/>
+      <point x="48.0" y="992.0" type="curve"/>
+      <point x="48.0" y="480.0" type="line"/>
+      <point x="48.0" y="192.0"/>
+      <point x="256.0" y="-32.0"/>
+      <point x="544.0" y="-32.0" type="curve"/>
+      <point x="832.0" y="-32.0"/>
+      <point x="1040.0" y="192.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Q.alt001</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1088.0</real>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
