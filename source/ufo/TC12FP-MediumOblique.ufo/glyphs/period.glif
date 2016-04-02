@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period" format="1">
+  <advance width="467"/>
+  <unicode hex="002E"/>
+  <outline>
+    <contour>
+      <point x="368" y="0" type="line"/>
+      <point x="432" y="288" type="line"/>
+      <point x="160" y="288" type="line"/>
+      <point x="96" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
